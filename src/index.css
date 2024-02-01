@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Figtree", sans-serif; /* Reemplaza 'CustomFont' con el nombre real de tu fuente */
+}
+.div-shadow {
+  box-shadow: 5px 5px 0px 5px black;
+}
