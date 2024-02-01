@@ -22,7 +22,7 @@ const App = () => {
         </div>
         <div className="flex justify-start items-center min-h-2 w-[330px] m-auto ">
           <img
-            src="/public/images/image-avatar.webp"
+            src="../images/image-avatar.webp"
             alt="avatar"
             className="w-10"
           />
