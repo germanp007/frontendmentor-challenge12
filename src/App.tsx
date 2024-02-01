@@ -3,7 +3,7 @@ import "./index.css";
 const App = () => {
   return (
     <body className="bg-YellowBg  w-screen h-screen flex justify-center items-center">
-      <div className="bg-WhiteNeutral w-[336px] h-[522px] rounded-2xl div-shadow px-5 py-8 sm:w-[386px]">
+      <div className="bg-black w-[336px] h-[522px] rounded-2xl div-shadow px-5 py-8 sm:w-[386px]">
         <div className="m-auto overflow-hidden rounded-xl w-[100%] sm:w-[330px] h-[200px]">
           <SvgComponent width={360} height={360} />
         </div>
